@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE (AI & ML) Student
+- 🎓 B.Tech CSE Student
 - 🔭 Working on **YOLOv8 Violence Detection + AI-powered products**
 - 🌱 Learning **System Design, Kubernetes, DevOps, and MLOps**
 - 👯 Open to collaborate on **AI, Full Stack, and Open Source**

@@ -8,23 +8,23 @@
   <a href="https://github.com/Rahul76675">
     <img src="https://komarev.com/ghpvc/?username=Rahul76675&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange" />
+  <a href="https://leetcode.com/u/rtrahul432/">
+    <img src="https://img.shields.io/badge/LeetCode-rtrahul432-orange?style=flat&logo=leetcode" />
   </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+  <a href="https://www.linkedin.com/in/rahul-kumar-mandal-4a166126b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Kumar%20Mandal-blue?style=flat&logo=linkedin" />
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE Student
-- 🔭 Working on **YOLOv8 Violence Detection + AI products**
-- 🌱 Learning **System Design, Kubernetes, DevOps, MLOps**
-- 👯 Open to collaborate on **AI, Web, Open Source**
-- 💬 Ask me about **Python, ML, React, Node.js, DSA**
-- ⚡ Fun fact: I love turning ideas into real-world products
+- 🎓 B.Tech CSE (AI & ML) Student
+- 🔭 Working on **YOLOv8 Violence Detection + AI-powered products**
+- 🌱 Learning **System Design, Kubernetes, DevOps, and MLOps**
+- 👯 Open to collaborate on **AI, Full Stack, and Open Source**
+- 💬 Ask me about **Python, ML, Deep Learning, React, Node.js, and DSA**
+- ⚡ Fun fact: I enjoy turning real-world problems into scalable AI solutions
 
 ---
 
@@ -36,10 +36,10 @@
 ---
 
 ## 🚀 What I Do
-- 🤖 AI/ML Real-world applications
+- 🤖 AI/ML real-world applications
 - 🌐 Full Stack web development
 - 📈 Scalable backend systems
-- ⚡ DSA + Competitive Programming
+- ⚡ DSA + LeetCode problem solving
 - ☁️ Cloud deployment and DevOps
 
 ---
